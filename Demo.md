@@ -5,3 +5,5 @@ This is a new line in the md file.
 This is a another line in the md file.
 
 This is the second commit text
+
+For a new branch
